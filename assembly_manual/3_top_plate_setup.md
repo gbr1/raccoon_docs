@@ -72,6 +72,10 @@
 
 ![](../doc_images/assembly/top_steps/top_steps.018.png)
 
-18. The top plate is ready!!! :smile:
+18. The top plate is ready!!!
+
+[Go to the final assembly](4_final_assembly.md)
+
+
 
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***

@@ -49,4 +49,6 @@
 
 10. Your UP Squared is ready to be mounted.
 
+[Go to the bottom plate assembly guide](2_bottom_plate_setup.md)
+
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***

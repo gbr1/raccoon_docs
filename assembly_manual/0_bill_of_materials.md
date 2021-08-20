@@ -10,6 +10,14 @@
 | E06 | D435i             | Intel Realsense D435i                        | 1   |      |
 | E07 | Motor             | 12V Gearmotor with encoder                   | 2   |      |
 | E08 | Power button      | A round switch                               | 1   |      |
+| E09 | Encoder cable     | Encoder cable with JST connectors            | 2   |      |
+| E10 | Power Jack        | 5.5-2.1 jack with 25cm cable                 | 1   |      |
+| E11 | USB C cable       | USB C cable                                  | 1   |      |
+| E12 | USB micro cable   | USB micro cable                              | 1   |      |
+| E13 | white cable       | 20cm awg22                                   | 1   |      |
+| E14 | cyan cable        | 10cm awg22                                   | 1   |      |
+| E15 | DEANS cable       | a cable with DEANS connector                 | 1   |      |
+| R15 | purple cable      | 10cm awg22                                   | 1   |      |
 | P01 | Top plate         | check 3d print folder                        | 1   |      |
 | P02 | Bottom plate      | check 3d print folder                        | 1   |      |
 | P03 | Battery holder    | check 3d print folder                        | 1   |      |
@@ -30,23 +38,11 @@
 | M15 | M3x10             | M3 screws                                    | 3   |      |
 | M16 | M3x14             | M3 screws                                    | 2   |      |
 | M17 | M3x30             | M3 screws                                    | 2   |      |
-
- 
+| M18 | Magnets ⌀10x3     | Magnets                                      | 4   |      |
+| M19 | Wheel             | 69mm wheel                                   | 2   |      |
 
 For 3d printable parts use 0.2 resolution, 20% infill and 3 layers top/bottom
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+[Go to the UP Squared setup](1_UP_Squared_setup.md)
 
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***
