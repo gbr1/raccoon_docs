@@ -1,8 +1,7 @@
 # raccoon_docs
 
----
-> Documentation and how to of Raccoon robot
----
+## Note
+This documentation is indeed for mainteinance of UP Raccoon demo robot, if you are building a new one from scratch consider this documentation as inspiring only.
 
 ## Usage
 Check this [guide](How&#32;to&#32;use&#32;the&#32;demo.md)
