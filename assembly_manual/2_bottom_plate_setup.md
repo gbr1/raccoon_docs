@@ -53,6 +53,9 @@
 Follow the video to mount the bottom section.
 
 
+https://user-images.githubusercontent.com/9216366/146599040-81ecf0cd-299c-41ea-be90-967f67150cd5.mp4
+
+
 
 ## 3. Wiring
 
@@ -63,6 +66,7 @@ Following diagram shows how to wire the bottom section of the robot.
 *Note: You can use longer cables*
 
 Animation of the wiring
+
 
 
 
