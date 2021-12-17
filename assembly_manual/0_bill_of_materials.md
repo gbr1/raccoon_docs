@@ -13,8 +13,8 @@
 | E05 | DCDC                       | A buck converter that can power UP2 from 12V | 1   |
 | E06 | Intel Realsense D435i      | Intel Realsense D435i                        | 1   |
 | E07 | Gearmotor JGB37-520        | 12V 30:1 Gearmotor with encoder              | 2   |
-| E08 | Encoder cable              | Encoder cable with JST connectors            | 2   |
-| E09 | Power button               | A round switch with red/black cables         | 1   |
+| E08 | Gearmotor cable            | Gearmotor cable with JST connectors          | 2   |
+| E09 | Power switch               | A round switch with red/black cables         | 1   |
 | E10 | Power Jack                 | 5.5-2.1 jack with 25cm red/black cable       | 1   |
 | E11 | 22AWG Cable                | A 50cm red/black cable                       | 1   |
 | E12 | USB C cable                | USB 3.0 <-> USB C cable                      | 1   |

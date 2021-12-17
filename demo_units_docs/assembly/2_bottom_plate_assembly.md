@@ -269,7 +269,7 @@
 
 65. Turn off by pressing the bottom switch and detach the battery
 
-![](../doc_images/assembly/bottom_steps/bottom_steps.076.png)
+![](../../doc_images/assembly/bottom_steps/bottom_steps.076.png)
 
 66. The bottom plate is ready
 

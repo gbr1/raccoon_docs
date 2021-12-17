@@ -1,4 +1,4 @@
-# Documentation and "how to" of Raccoon robot
+# Documentation and "how to" of UP Raccoon robot
 
 ![./doc_images/others/robot.jpg](./doc_images/others/robot.jpg)
 
