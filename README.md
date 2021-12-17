@@ -1,12 +1,8 @@
 # Documentation and "how to" of Raccoon robot
 
-
-
 ![./doc_images/others/robot.jpg](./doc_images/others/robot.jpg)
 
 # 
-
-
 
 ## Usage
 
@@ -37,7 +33,5 @@ Check these [diagrams](Raccoon&#32;robot&#32;diagrams.md)
 Maker Faire Rome live [video](https://www.youtube.com/watch?v=H5PWxFA-pxc) (ita/eng)
 
 # 
-
-
 
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***
