@@ -1,48 +1,61 @@
 # Bill of Materials
 
-| id  | Part              | Description                                  | Qty | Link |
-| --- | ----------------- | -------------------------------------------- | --- | ---- |
-| E01 | UP2               | UP Squared sbc                               | 1   |      |
-| E02 | Wifi kit          | WiFi card with antennas                      | 1   |      |
-| E03 | AI Core X         | Myriad X module in PCI-e format              | 1   |      |
-| E04 | Moebiustech STM32 | A ROS board based on STM32F103RC             | 1   |      |
-| E05 | DCDC              | A buck converter that can power UP2 from 12V | 1   |      |
-| E06 | D435i             | Intel Realsense D435i                        | 1   |      |
-| E07 | Motor             | 12V Gearmotor with encoder                   | 2   |      |
-| E08 | Power button      | A round switch                               | 1   |      |
-| E09 | Encoder cable     | Encoder cable with JST connectors            | 2   |      |
-| E10 | Power Jack        | 5.5-2.1 jack with 25cm cable                 | 1   |      |
-| E11 | USB C cable       | USB C cable                                  | 1   |      |
-| E12 | USB micro cable   | USB micro cable                              | 1   |      |
-| E13 | white cable       | 20cm awg22                                   | 1   |      |
-| E14 | cyan cable        | 10cm awg22                                   | 1   |      |
-| E15 | DEANS cable       | a cable with DEANS connector                 | 1   |      |
-| R15 | purple cable      | 10cm awg22                                   | 1   |      |
-| P01 | Top plate         | check 3d print folder                        | 1   |      |
-| P02 | Bottom plate      | check 3d print folder                        | 1   |      |
-| P03 | Battery holder    | check 3d print folder                        | 1   |      |
-| P04 | Battery spacer    | check 3d print folder                        | 1   |      |
-| M01 | Caster            | A caster wheel                               | 1   |      |
-| M02 | Screw connector   | Connector for arrange cables                 | 1   |      |
-| M03 | M2.5x18 standoffs | Metal standoffs                              | 4   |      |
-| M05 | M2.5x5            | Standoffs for Moebiustech board              | 4   |      |
-| M06 | M2.5x6            | Standoffs for DCDC                           | 4   |      |
-| M07 | M3x20 standoffs   | Nylon standoffs                              | 4   |      |
-| M08 | M2.5              | nuts                                         | 12  |      |
-| M09 | M3                | nuts                                         | 16  |      |
-| M10 | M2.5x4            | M2.5 screws                                  | 8   |      |
-| M11 | M2.5x6            | M2.5 screws                                  | 4   |      |
-| M12 | M3x5              | M3 screws                                    | 12  |      |
-| M13 | M3x6              | M3 screws                                    | 8   |      |
-| M14 | M3x8              | M3 screws                                    | 4   |      |
-| M15 | M3x10             | M3 screws                                    | 3   |      |
-| M16 | M3x14             | M3 screws                                    | 2   |      |
-| M17 | M3x30             | M3 screws                                    | 2   |      |
-| M18 | Magnets ⌀10x3     | Magnets                                      | 4   |      |
-| M19 | Wheel             | 69mm wheel                                   | 2   |      |
+# 
 
-For 3d printable parts use 0.2 resolution, 20% infill and 3 layers top/bottom
+### Electronics & Electromechanicals
+
+| id  | Part                       | Description                                  | Qty |
+| --- | -------------------------- | -------------------------------------------- | --- |
+| E01 | AAEON UP2                  | UP Squared sbc                               | 1   |
+| E02 | Wifi kit                   | WiFi card with antennas (PCB+uFL)            | 1   |
+| E03 | AAEON AI Core X            | Myriad X module in PCI-e format              | 1   |
+| E04 | Moebiustech STM32 rosboard | A ROS board based on STM32F103RC             | 1   |
+| E05 | DCDC                       | A buck converter that can power UP2 from 12V | 1   |
+| E06 | Intel Realsense D435i      | Intel Realsense D435i                        | 1   |
+| E07 | Gearmotor JGB37-520        | 12V 30:1 Gearmotor with encoder              | 2   |
+| E08 | Encoder cable              | Encoder cable with JST connectors            | 2   |
+| E09 | Power button               | A round switch with red/black cables         | 1   |
+| E10 | Power Jack                 | 5.5-2.1 jack with 25cm red/black cable       | 1   |
+| E11 | 22AWG Cable                | A 50cm red/black cable                       | 1   |
+| E12 | USB C cable                | USB 3.0 <-> USB C cable                      | 1   |
+| E13 | USB micro cable            | USB 2.0 <-> micro USB cable                  | 1   |
+| E14 | DEANS cable                | a red/black cable with DEANS connector       | 1   |
+| E15 | Mammoth connector          | 3 vias mammout connector (3 vias)            | 1   |
+
+### Mechanicals
+
+| id  | Part              | Description                                                              | Qty |
+| --- | ----------------- | ------------------------------------------------------------------------ | --- |
+| M01 | M2.5x20+6         | Standoffs with M2.5 mounts, 20mm with 6mm screw                          | 4   |
+| M02 | M3x30+6           | Standoffs with M3 mounts, 30mm with 6mm screw                            | 4   |
+| M03 | M2.5 nut          | M2.5 nuts                                                                | 22  |
+| M04 | M3 nut            | M3 nuts                                                                  | 12  |
+| M05 | M2.5x6            | M2.5 screw of 6mm lenght                                                 | 18  |
+| M06 | M2.5x14           | M2.5 screw of 14mm lenght                                                | 4   |
+| M07 | M3x5              | M3 screw of 5mm lenght                                                   | 12  |
+| M08 | M3x10             | M3 screw of 10mm lenght                                                  | 16  |
+| M09 | Cable tie         | a cable tie                                                              | 1   |
+| M10 | Gearmotor bracket | A "L" bracket needed to mount a gearmotor on a plate                     | 2   |
+| M11 | Wheel 65mm        | 65mm wheel with a 6mm hole                                               | 2   |
+| M12 | Magnet ⌀10x3      | Neodimium magnet (diameter 10mm and height 3mm) with N/S polarized faces | 4   |
+| M13 | Caster wheel      | 1inch caster wheel                                                       | 1   |
+
+### 3D Printable
+
+| id  | Part                     | Description                                                    | Qty |
+| --- | ------------------------ | -------------------------------------------------------------- | --- |
+| P01 | Bottom plate             | Bottom plate of the robot                                      | 1   |
+| P02 | Top plate                | Top layer of the robot                                         | 1   |
+| P03 | Battery bracket          | An optional magnetic bracket needed to fix the battery         | 1   |
+| P04 | Moebiustech Board spacer | A spacer needed to mount the E04 (Moebiustech STM32) component | 1   |
+| P05 | DCDC spacer              | A spacer needed to mount the E05 (DCDC) component              | 1   |
+
+For 3d printable you can use [this guide](../3d_print/readme.md).
+
+---
 
 [Go to the UP Squared setup](1_UP_Squared_setup.md)
+
+---
 
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***

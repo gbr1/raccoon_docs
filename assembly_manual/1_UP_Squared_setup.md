@@ -1,14 +1,18 @@
 # UP Squared setup
 
+# 
+
 1. Bring:
    
-   - UP Squared
+   - UP Squared (*code E01*)
    
-   - WiFi kit with antennas
+   - WiFi kit with antennas (*code E02*)
    
-   - AI Core X kit
+   - AI Core X kit (*code E03*)
    
-   - 4 M2.5x18 standoffs (you can also build from smaller) and 4 M2.5 nuts
+   - 4x M2.5x20+6 standoffs (*code M01*), you can also build from smaller if you haven't got them
+   
+   - 4x M2.5 nuts (*code M03*)
 
 ![](../doc_images/assembly/up_preparation/up_preparation.001.png)
 
@@ -39,7 +43,7 @@
 
 ![](../doc_images/assembly/up_preparation/up_preparation.010.png)
 
-8. Bring the film antenna and connect on port 2 of WiFi card
+8. Bring the flexible PCB antenna and connect on port 2 of WiFi card
 
 ![](../doc_images/assembly/up_preparation/up_preparation.011.png)
 
@@ -49,6 +53,10 @@
 
 10. Your UP Squared is ready to be mounted.
 
+---
+
 [Go to the bottom plate assembly guide](2_bottom_plate_setup.md)
+
+---
 
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***
