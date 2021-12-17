@@ -2,7 +2,7 @@
 
 # 
 
-### Electronics & Electromechanicals
+### 1. Electronics & Electromechanicals
 
 | id  | Part                       | Description                                  | Qty |
 | --- | -------------------------- | -------------------------------------------- | --- |
@@ -22,7 +22,7 @@
 | E14 | DEANS cable                | a red/black cable with DEANS connector       | 1   |
 | E15 | Mammoth connector          | 3 vias mammout connector (3 vias)            | 1   |
 
-### Mechanicals
+### 2. Mechanicals
 
 | id  | Part              | Description                                                              | Qty |
 | --- | ----------------- | ------------------------------------------------------------------------ | --- |
@@ -40,7 +40,7 @@
 | M12 | Magnet ⌀10x3      | Neodimium magnet (diameter 10mm and height 3mm) with N/S polarized faces | 4   |
 | M13 | Caster wheel      | 1inch caster wheel                                                       | 1   |
 
-### 3D Printable
+### 3. 3D Printable
 
 | id  | Part                     | Description                                                    | Qty |
 | --- | ------------------------ | -------------------------------------------------------------- | --- |
@@ -53,6 +53,8 @@
 For 3d printable you can use [this guide](../3d_print/readme.md).
 
 ---
+
+## Start building your UP Raccoon
 
 [Go to the UP Squared setup](1_UP_Squared_setup.md)
 

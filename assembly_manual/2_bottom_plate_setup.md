@@ -52,10 +52,7 @@
 
 Follow the video to mount the bottom section.
 
-
 https://user-images.githubusercontent.com/9216366/146599040-81ecf0cd-299c-41ea-be90-967f67150cd5.mp4
-
-
 
 ## 3. Wiring
 
@@ -67,10 +64,7 @@ Following diagram shows how to wire the bottom section of the robot.
 
 Animation of the wiring
 
-
-
-
-
+https://user-images.githubusercontent.com/9216366/146600231-4f52fe80-296f-4ad2-b1c7-9e365fd438a7.mp4
 
 ## 4. Calibrate the power stage
 
@@ -99,12 +93,16 @@ Animation of the wiring
 ![](../doc_images/assembly/bottom_steps/bottom_steps.074.png)
 ![](../doc_images/assembly/bottom_steps/bottom_steps.075.png)
 
-7. You have calibrate the power stage. Turn off by pressing the bottom switch and detach the battery.
+7. You have just calibrated the power stage. Turn off by pressing the bottom switch and detach the battery.
 
 ![](../doc_images/assembly/bottom_steps/bottom_steps.076.png)
+
+---
 
 ## 5. Next step
 
 [Go to the top plate building](3_top_plate_setup.md)
+
+---
 
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***
