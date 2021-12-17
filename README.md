@@ -4,11 +4,11 @@
 
 # 
 
-## Usage
+UP Raccoon is an AMR designed in collaboration with AAEON - UP.  This robot is completely opensource and easy to build.
 
-Check this [guide](How&#32;to&#32;use&#32;the&#32;demo.md)
 
-## 
+
+
 
 ## Software
 
@@ -31,6 +31,12 @@ Check these [diagrams](Raccoon&#32;robot&#32;diagrams.md)
 ## Events
 
 Maker Faire Rome live [video](https://www.youtube.com/watch?v=H5PWxFA-pxc) (ita/eng)
+
+
+
+## Demo
+
+Check this [guide](How to use the demo.md)
 
 # 
 
