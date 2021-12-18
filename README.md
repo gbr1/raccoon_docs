@@ -24,7 +24,7 @@ Maker Faire Rome live [video](https://www.youtube.com/watch?v=H5PWxFA-pxc) (ita/
 
 ## Demo
 
-Check this [guide](./How to use the demo.md)
+Check this [guide](./docs_units_docs/How to use the demo.md)
 
 ---
 
