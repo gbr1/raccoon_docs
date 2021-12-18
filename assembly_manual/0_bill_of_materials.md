@@ -7,7 +7,7 @@
 | id  | Part                       | Description                                  | Qty |
 | --- | -------------------------- | -------------------------------------------- | --- |
 | E01 | AAEON UP2                  | UP Squared sbc                               | 1   |
-| E02 | Wifi kit                   | WiFi card with antennas (PCB+uFL)            | 1   |
+| E02 | Wifi kit                   | WiFi card with antennas (PCB+SMA)            | 1   |
 | E03 | AAEON AI Core X            | Myriad X module in PCI-e format              | 1   |
 | E04 | Moebiustech STM32 rosboard | A ROS board based on STM32F103RC             | 1   |
 | E05 | DCDC                       | A buck converter that can power UP2 from 12V | 1   |
