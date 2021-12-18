@@ -46,7 +46,7 @@ https://user-images.githubusercontent.com/9216366/146622010-1dc93084-384e-4ae7-a
 
 ## 4. Optional - Battery holder
 
-1. Insert magnets into the piece taking care of the polarity, the piece must be attracted by the bottom plate.
+1. Insert magnets into the piece taking care of the polarity, the piece must be attracted by the bottom plate
 
 ![../doc_images/assembly/bottom_steps/bottom_steps.001.png](../doc_images/assembly/bottom_steps/bottom_steps.001.png)
 
