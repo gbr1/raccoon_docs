@@ -49,7 +49,7 @@
 
 ![](../doc_images/assembly/up_preparation/up_preparation.011.png)
 
-8. Mount the other antenna cable on port 1 of WiFi card
+8. Mount the other antenna cable (SMA) on port 1 of WiFi card
 
 ![](../doc_images/assembly/up_preparation/up_preparation.012.png)
 

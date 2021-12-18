@@ -10,7 +10,7 @@
 
 - Intel Realsense D435/D435i (*code E02*)
 
-- WiFi antenna (*code E03*)
+- SMA WiFi antenna (*code E03*)
 
 - 2x M3x10 screws (*code M08*)
 
@@ -19,8 +19,6 @@
 Follow the video to mount the top section.
 
 https://user-images.githubusercontent.com/9216366/146613192-e322e2f5-3453-4d04-a1d4-09b31b742257.mp4
-
-
 
 ---
 
