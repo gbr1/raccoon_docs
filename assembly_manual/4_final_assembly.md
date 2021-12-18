@@ -26,10 +26,6 @@ https://user-images.githubusercontent.com/9216366/146622010-1dc93084-384e-4ae7-a
 
 2. Plug the USB C cable (*code E12*) to the Intel Realsense and the USB 3.0 on the back of the robot. Fix the cable using the cable tie (*code M09*).
 
-3. 
-
-
-
 3. Pass the usb cable from bottom to top and plug the usb connector on the back of UP Squared
 
 ![](../doc_images/assembly/final_steps/final_steps.003.png)
@@ -38,7 +34,7 @@ https://user-images.githubusercontent.com/9216366/146622010-1dc93084-384e-4ae7-a
 
 ![](../doc_images/assembly/final_steps/final_steps.004.png)
 
-## Battery
+## 3. Battery
 
 1. Insert the battery (3S LiPo)
 
@@ -48,13 +44,19 @@ https://user-images.githubusercontent.com/9216366/146622010-1dc93084-384e-4ae7-a
 
 ![](../doc_images/assembly/final_steps/final_steps.006.png)
 
-## Optional - Battery holder
+## 4. Optional - Battery holder
 
+1. Insert magnets into the piece taking care of the polarity, the piece must be attracted by the bottom plate.
 
+![../doc_images/assembly/bottom_steps/bottom_steps.001.png](../doc_images/assembly/bottom_steps/bottom_steps.001.png)
+
+2. Magnetically attach the holder
 
 ![](../doc_images/assembly/final_steps/final_steps.007.png)
 
 ## Finish!
+
+Your UP Raccoon is ready!
 
 ![](../doc_images/assembly/final_steps/final_steps.009.png)
 
@@ -63,7 +65,5 @@ https://user-images.githubusercontent.com/9216366/146622010-1dc93084-384e-4ae7-a
 Follow the [robot setup](../Raccoon robot setup.md) to start using your robot
 
 ---
-
-
 
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***
