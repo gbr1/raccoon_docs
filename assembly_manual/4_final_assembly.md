@@ -64,7 +64,7 @@ Your UP Raccoon is ready!
 
 ## Go to the software
 
-Follow the [robot setup](../Raccoon robot setup.md) to start using your robot
+Follow the [robot setup](../Raccoon%20robot%20setup.md) to start using your robot
 
 ---
 
