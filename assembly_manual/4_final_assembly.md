@@ -60,14 +60,18 @@ Your UP Raccoon is ready!
 
 ![](../doc_images/assembly/final_steps/final_steps.009.png)
 
+
+
 ---
 
-
+## Go to the software
 
 Follow the [robot setup](../Raccoon robot setup.md) to start using your robot
 
 
 
 ---
+
+
 
 > ***Copyright © 2021 G. Bruno gbr1.github.io under MIT license***
