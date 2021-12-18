@@ -104,7 +104,7 @@ To charge battery, detach from the robot connect to charger and select LIPO BALA
 
 - /dmesg if there are some errors.
 
-![rosboard](../doc_images/demo/configured_rosboard "ROSBoard full configuration")
+![rosboard](../doc_images/demo/configured_rosboard.png "ROSBoard full configuration")
 
 ---
 
